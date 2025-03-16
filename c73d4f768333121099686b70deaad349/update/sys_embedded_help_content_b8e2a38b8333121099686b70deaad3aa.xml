@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_generated>false</ai_generated>
+        <category/>
+        <content><![CDATA[<p><strong>Using the needit Form</strong></p>
+<p>Use the needit application to request services and goods from several departments.</p>
+<ul><li>Legal</li><li>Human Resources</li><li>Facilities</li></ul>
+<p><strong>NeedIt Form Fields</strong></p>
+<ol class="steps-ordered"><li>For new NeedIt records, the Requested for field is pre-populated with your name. If you are opening a NeedIt request for someone else, you can change the value in the Requested for field.</li><li>The Requested for email field is automatically populated if you change the user in the Requested for field. You can change the Requested for email field value.</li><li>The choices in the What needed field depend on the value in the Request type field.</li><li>If the value in the What needed field is Other, the Other field appears. Use the Other field to add a few words about your request.</li><li>Use the calendar picker in the When needed field to set the due date for the NeedIt request.</li><li class="li step">Use the Short description and Description fields to provide more information about your request</li></ol>
+<p> </p>
+<div class="help-content">
+<p><strong>Note:</strong> When creating NeedIt requests, the <em>When needed</em> date cannot be today or in the past.</p>
+Need More Help?
+<p>You can learn about form fields on the <a href="https://docs.servicenow.com" target="_blank" rel="noopener noreferrer">ServiceNow docs site</a>.</p>
+</div>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Jarom Bustillo NeedIt Form</name>
+        <page>x_1620142_needit_needit</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 10:51:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8e2a38b8333121099686b70deaad3aa</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Jarom Bustillo NeedIt Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620142_needit">c73d4f768333121099686b70deaad349</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c73d4f768333121099686b70deaad349</sys_scope>
+        <sys_update_name>sys_embedded_help_content_b8e2a38b8333121099686b70deaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 11:06:04</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8e2a38b8333121099686b70deaad3aa"/>
+</record_update>

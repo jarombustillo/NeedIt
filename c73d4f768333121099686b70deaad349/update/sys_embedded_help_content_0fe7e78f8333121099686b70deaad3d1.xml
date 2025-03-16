@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_generated>false</ai_generated>
+        <category/>
+        <content><![CDATA[<div class="help-content">
+Administering the NeedIt Form
+<p>Only members of the NeedIt application team can make changes to the NeedIt form. Do not make changes to the NeedIt form without an approved change request.</p>
+<div class="note">
+<p><strong>Note:</strong> The NeedIt Application is brought to you by the bsweets and niedziel.</p>
+</div>
+</div>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Jarom Bustillo NeedIt List</name>
+        <page>x_1620142_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 11:11:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fe7e78f8333121099686b70deaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jarom Bustillo NeedIt List</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620142_needit">c73d4f768333121099686b70deaad349</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c73d4f768333121099686b70deaad349</sys_scope>
+        <sys_update_name>sys_embedded_help_content_0fe7e78f8333121099686b70deaad3d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 11:11:11</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=0fe7e78f8333121099686b70deaad3d1"/>
+</record_update>

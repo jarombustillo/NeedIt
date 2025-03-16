@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-22 14:41:10</sys_created_on>
+        <sys_id>ccdecff68333121099686b70deaad321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1620142_needit_needit.x_1620142_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620142_needit">c73d4f768333121099686b70deaad349</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c73d4f768333121099686b70deaad349</sys_scope>
+        <sys_security_acl display_value="x_1620142_needit_needit">c4decff68333121099686b70deaad31e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ccdecff68333121099686b70deaad321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-22 14:41:10</sys_updated_on>
+        <sys_user_role display_value="x_1620142_needit.needit_user" name="x_1620142_needit.needit_user">b3ce47f68333121099686b70deaad38a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
